@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PyjamaHR-Front-end-assignment/static/css/main.e3f5e61b.css",
+    "main.js": "/PyjamaHR-Front-end-assignment/static/js/main.cd5b6c5b.js",
+    "index.html": "/PyjamaHR-Front-end-assignment/index.html",
+    "main.e3f5e61b.css.map": "/PyjamaHR-Front-end-assignment/static/css/main.e3f5e61b.css.map",
+    "main.cd5b6c5b.js.map": "/PyjamaHR-Front-end-assignment/static/js/main.cd5b6c5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3f5e61b.css",
+    "static/js/main.cd5b6c5b.js"
+  ]
+}
